@@ -2,6 +2,7 @@ import tkinter as tk
 import customtkinter as ctk
 
 from color_frame import ColorFrame
+#qwerty
 
 #theme
 ctk.set_appearance_mode("Dark")
